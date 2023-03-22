@@ -1,6 +1,6 @@
 <h1 align = "center"><img src="pika1.gif" width="55px"> Hola, I'm Sapna! </h1>
 
-I am a Product Designer working towards identifying & solving rpoblems through ideation and design, everyday.
+I am a Product Designer working towards identifying & solving problems through ideation and design, everyday.
 
 ## <img src="pika2.gif" width="52px"> Work Experience: 
 
