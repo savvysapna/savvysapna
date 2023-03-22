@@ -41,7 +41,7 @@ I am a Product Designer working towards identifying & solving problems through i
 <code><a href="https://linkedin.com/in/sapna-gupta-955533129/"><img width="45px" src="https://img.icons8.com/color/8x/000000/behance.png" title="Behance"/></a></code>
 <code><a href="https://linkedin.com/in/sapna-gupta-955533129/"><img width="45px" src="https://img.icons8.com/color/8x/000000/dribbble.png" title="Dribbble"/></a></code>
 <code><a href="https://www.instagram.com/graphunny.con/"><img width="45px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
-<code><a href="mailto:saumya.singh203@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+<code><a href="mailto:sapna.g3198@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savvysapna&theme=tokyonight&hide_border=true" alt="savvysapna" /></p>
