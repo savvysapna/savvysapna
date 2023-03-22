@@ -12,7 +12,7 @@ I am a Product Designer working towards identifying & solving problems through i
 
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=savvysapna&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savvysapna&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savvysapna&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=default">
 </p>
 
 
